@@ -17,6 +17,7 @@ public class Main {
 	{
 		System.out.println("Hello happy sales poeple");;
 		System.out.println("This application shows sales data");
+		System.out.println("Modified after the first commit");
 	}
 
 }
